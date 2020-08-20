@@ -1,0 +1,63 @@
+
+
+body{
+
+    margin: 0;
+    padding: 0;
+    background-image: url('css/pexels-bongkarn-thanyakij-3759099.jpg');
+  background-size: cover;
+    font-weight: lighter;
+    background-repeat: no-repeat;
+    color: rgb(14, 13, 13);
+    
+}
+
+
+
+
+
+
+#giral{
+
+position: absolute;
+width: 200px;
+height: 200px;
+background-position: center center;
+top: 370px;
+left: 550px;
+
+}
+#nam{
+position: absolute;
+top:350px;
+left:800px ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-family: lateef;
+}
+#pp{
+
+  top: 380px;
+  left: 785px;
+  position: absolute;
+  margin: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+}
+
+a{
+top: 480px;
+left: 850px;
+position: absolute;
+
+}
+#link{
+  top: 480px;
+  left: 830px;
+  position: absolute;
+}
+
+
+
+
+
+
